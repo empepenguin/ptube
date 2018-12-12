@@ -4,29 +4,29 @@
 
 # サービスの説明および機能
 
-## kahocliant
+## kahocliantサービス
 - 各ページのデザイン作成
 
-## akane-api
+## akane-apiサービス
 - 各サービスにapi-serviceを生やす
 
-## akane-auth
+## akane-authサービス
 - ユーザー登録
 - ユーザー認証
 
-## akane-postgres-auth
+## akane-postgres-authサービス
 - ユーザー情報の保存
 
-## akane-streaming
+## akane-streamingサービス
 - 動画再生
 
-## akane-users
+## akane-usersサービス
 - 動画投稿者のusernameをakane-postgres-authから取得
 
-## akane-postgres-streaming
+## akane-postgres-streamingサービス
 - 動画の保存
 
-## akane-convert
+## akane-convertサービス
 - 撮影した動画をmp4に変換
 
-## minio
+## minioサービス
