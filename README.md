@@ -1,6 +1,6 @@
 # ptube
 # servicemap
-![servicemap](https://whimsical.co/E4ioEPijaVohz6B5vswrad)
+![サービスマップ](df4a811c-8fea-427d-8fcb-9388ccaa8310.png)
 
 # サービスの説明および機能
 
