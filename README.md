@@ -1,6 +1,6 @@
 # ptube
 # servicemap
-![servicemap](df4a811c-8fea-427d-8fcb-9388ccaa8310)
+![servicemap]()
 
 # サービスの説明および機能
 
@@ -21,7 +21,7 @@
 - 動画再生
 
 ## akane-users
-- 動画投稿者のusernameをとってくる
+- 動画投稿者のusernameをakane-postgres-authから取得
 
 ## akane-postgres-streaming
 - 動画の保存
