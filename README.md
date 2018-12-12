@@ -1,6 +1,6 @@
 # ptube
 # servicemap
-![servicemap](penguin@1.5x)
+![servicemap](https://whimsical.co/E4ioEPijaVohz6B5vswrad)
 
 # サービスの説明および機能
 
