@@ -8,7 +8,7 @@
 - 各ページのデザイン作成
 
 ## akane-api
-- 各サービスにapiserviceを生やす
+- 各サービスにapi-serviceを生やす
 
 ## akane-auth
 - ユーザー登録
@@ -21,9 +21,12 @@
 - 動画再生
 
 ## akane-users
+- 動画投稿者のusernameをとってくる
 
 ## akane-postgres-streaming
+- 動画の保存
 
 ## akane-convert
+- 撮影した動画をmp4に変換
 
 ## minio
