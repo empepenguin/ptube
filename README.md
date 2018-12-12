@@ -6,8 +6,10 @@
 - 各ページの作成
 
 # akane-api
+- 各サービスにapiserviceを生やす
 
 # akane-auth
+- ユーザー登録
 
 # akane-postgres-auth
 
