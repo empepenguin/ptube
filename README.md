@@ -1,6 +1,6 @@
 # ptube
 # servicemap
-![サービスマップ](df4a811c-8fea-427d-8fcb-9388ccaa8310.png)
+![サービスマップ](/uploads/611d5790aa4163b96589eac5e4247ea4/626e5153-bf82-4661-8d8e-d1695401b791__1_.png)
 
 # サービスの説明および機能
 
