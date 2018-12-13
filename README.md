@@ -1,6 +1,6 @@
 # ptube
 # servicemap
-![servicemap](servicemap.jpg)
+![servicemap](C:\ユーザー\YoShi\OneDrive\ドキュメント\servicemap.jpg)
 
 # サービスの説明および機能
 
