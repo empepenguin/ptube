@@ -6,6 +6,7 @@
 
 ## kahocliantサービス
 - 各ページのデザイン作成
+- ホーム画面
 
 ## akane-apiサービス
 - 各サービスにapi-serviceを生やす
@@ -22,6 +23,7 @@
 
 ## akane-usersサービス
 - 動画投稿者のusernameをakane-postgres-authから取得
+- streamingとakane-postgres-authのやり取りの中間役
 
 ## akane-postgres-streamingサービス
 - 動画の保存
