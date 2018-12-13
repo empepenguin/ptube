@@ -1,6 +1,6 @@
 # ptube
 # servicemap
-<img src="https://whimsical.co/E4ioEPijaVohz6B5vswrad" alt="servicemap" title="servicemap">
+![servicemap](servicemap.jpg)
 
 # サービスの説明および機能
 
