@@ -1,6 +1,6 @@
 # ptube
 # servicemap
-<img src="blob:https://whimsical.co/626e5153-bf82-4661-8d8e-d1695401b791" alt="エビフライトライアングル" title="サンプル">
+<img src="https://whimsical.co/E4ioEPijaVohz6B5vswrad" alt="servicemap" title="servicemap">
 
 # サービスの説明および機能
 
