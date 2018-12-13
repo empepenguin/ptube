@@ -22,6 +22,7 @@
 
 ## akane-streamingサービス
 - 動画再生をできるようにする機能
+- 動画のタイトル表示機能
 
 ## akane-usersサービス
 - 動画投稿者のusernameをakane-postgres-authから取得
