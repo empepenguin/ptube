@@ -15,17 +15,18 @@
 - ログイン時にユーザー認証を行いcliantにユーザー情報を返す
 
 ## akane-postgres-authサービス
-- ユーザー情報の保存
+- ユーザー情報の保存する機能
+- akane-authやstreamingに必要な情報を返す機能
 
 ## akane-streamingサービス
-- 動画再生をできるようにする
+- 動画再生をできるようにする機能
 
 ## akane-usersサービス
 - 動画投稿者のusernameをakane-postgres-authから取得
 - streamingとakane-postgres-authのやり取りの中間役
 
 ## akane-postgres-streamingサービス
-- 動画の保存
+- ユーザーがあげた動画を保存する機能
 
 ## akane-convertサービス
 - mp4ファイルをHSLm3u8+ts)形式に変換
