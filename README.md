@@ -6,20 +6,19 @@
 
 ## kahocliantサービス
 - 各ページのデザイン作成
-- ホーム画面
 
 ## akane-apiサービス
 - 各サービスにapi-serviceを生やす
 
 ## akane-authサービス
-- ユーザー登録
-- ユーザー認証
+- ユーザー登録できるようにする
+- ログイン時にユーザー認証を行いcliantにユーザー情報を返す
 
 ## akane-postgres-authサービス
 - ユーザー情報の保存
 
 ## akane-streamingサービス
-- 動画再生
+- 動画再生をできるようにする
 
 ## akane-usersサービス
 - 動画投稿者のusernameをakane-postgres-authから取得
