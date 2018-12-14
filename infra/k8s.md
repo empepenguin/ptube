@@ -6,3 +6,7 @@
 - Rancher
 - Swarm
 - kubernetes
+
+コンテナのオーケストレーションツールとしてはkubernetesが多く使われていること,
+gcp,aws,azureにkubernetesの環境を構築することができることから
+我々はkubernetesを使用した.
