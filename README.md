@@ -1,6 +1,6 @@
 # ptube
 # servicemap
-![servicemap](./images/service-map.jpg)
+![servicemap](https://github.com/empepenguin/ptube/blob/images/service-map.png)
 
 # サービスの説明および機能
 
