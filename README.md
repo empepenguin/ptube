@@ -1,6 +1,6 @@
 # ptube
 # servicemap
-![servicemap](./servicemap.jpg)
+![servicemap](./images/servic-emap.jpg)
 
 # サービスの説明および機能
 
