@@ -5,34 +5,29 @@
 # サービスの説明および機能
 
 ## kahocliantサービス
-- 各ページのデザイン作成
+ここでは静的ファイルの配信を行っている.
+ユーザが一番最初にアクセスする場所がここになる.
 
 ## akane-apiサービス
-- 各サービスにapi-serviceを生やす
-- 各サービスでapiをたたけるようにする
-- cliantと各サービス間がやり取りできるようにする
+ほとんどのリクエストはakane-apiに来る.
+そのリクエストを他のサービスに流す役割をもっている.
 
 ## akane-authサービス
-- ユーザー登録できるようにする
-- ログイン時にユーザー認証を行いcliantにユーザー情報を返す
+akane-apiからユーザに関するリクエストが流れてきたら処理をする.
+登録や認証などを担当するサービス.
 
-## akane-postgres-authサービス
-- ユーザー情報の保存する機能
-- akane-authやstreamingに必要な情報を返す機能
+## akane-postgres-auth
+akane-authで処理されたデータを格納するDB
 
 ## akane-streamingサービス
-- 動画再生をできるようにする機能
-- 動画のタイトル表示機能
+akane-apiから動画に関するリクエストが流れきたら処理する.
 
-## akane-usersサービス
-- 動画投稿者のusernameをakane-postgres-authから取得
-- streamingとakane-postgres-authのやり取りの中間役
 
-## akane-postgres-streamingサービス
-- ユーザーがあげた動画を保存する機能
+## akane-postgres-streaming
+ユーザーがあげた動画の情報を処理するサービス
 
 ## akane-convertサービス
-- mp4ファイルをHSLm3u8+ts)形式に変換
+mp4ファイルをHSLm3u8+ts形式に変換
 
 ## minioサービス
-- 動画ファイルの保存する
+動画ファイルの保存する
