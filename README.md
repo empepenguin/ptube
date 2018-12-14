@@ -1,5 +1,6 @@
 # ptube
 # servicemap
+サービスがどのように連携しているかをいかに示す.
 ![servicemap](https://github.com/empepenguin/ptube/blob/images/service-map.png)
 
 # サービスの説明および機能
