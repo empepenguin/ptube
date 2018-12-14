@@ -86,3 +86,6 @@ mp4ファイルをHSLm3u8+ts形式に変換
 
 ### minioサービス
 動画ファイルの保存する  
+
+# 技術選択
+- [kubernetesの選択](./infra/k8s.md)
