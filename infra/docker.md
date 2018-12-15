@@ -20,7 +20,7 @@ gitlab-registoryを使用してdockerコンテナの共有を行っている.
 また,コンテナはVMと違い立ち上がりが速いという利点もある.  
 
 逆にデメリットとして
-### windows環境でのdocker開発は辛い
+### Windows環境でのdocker開発は辛い
 今回我々のチーム5人のうち3人がwindows環境での開発を行った.  
 その中でwindowsではdockerの開発環境を構築することが特に苦労した.  
 VM上に軽いゲストOSを動作させそこにdockerを入れるようにして開発を行った.  
