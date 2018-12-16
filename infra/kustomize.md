@@ -15,9 +15,10 @@ kubernetesを管理するにあたってyamlを使う必要があった.
 - kustomize
 
 ### helm
-helmは変数という形でyamlを記述する.詳しくはhelmを  
+helmは変数という形でyamlを記述する.詳しくはhelmの公式を
 yaml生成からkubernetesへのinstallまでを担当してくれる.  
 デプロイするときははkubernetesにhelmをインストールする必要がある.  
 お金がないのでリソースをできるだけ使いたくない我々はhelmを使うことを諦めた.
 
 ### kustomize
+kustomizeはベースとなるyamlを生成してそこから発展したyamlを局所的に書くことができる.詳しくはkustomizeの公式を見るといいだろう.
