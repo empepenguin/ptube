@@ -1,0 +1,1 @@
+# kustomizeを使う
