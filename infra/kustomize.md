@@ -21,4 +21,4 @@ yaml生成からkubernetesへのinstallまでを担当してくれる.
 お金がないのでリソースをできるだけ使いたくない我々はhelmを使うことを諦めた.
 
 ### kustomize
-kustomizeはベースとなるyamlを生成してそこから発展したyamlを局所的に書くことができる.詳しくはkustomizeの公式を見るといいだろう.
+kustomizeはベースとなるyamlを生成してそこから発展したyamlを局所的に書くことができる.詳しくはkustomizeの公式を見るといいだろう.  
