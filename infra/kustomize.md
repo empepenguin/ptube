@@ -5,3 +5,6 @@
 kubernetesを管理するにあたってyamlを使う必要があった.  
 ただkubernetesのyamlは似たサービス(akane-auth,akane-convert..etc)は  
 ほとんど同じようなyamlの構造になる.
+これをサービスを新たに定義するたびに新たに書くのは非効率だと考えた.  
+
+
