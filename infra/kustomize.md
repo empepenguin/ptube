@@ -14,3 +14,6 @@ kubernetesを管理するにあたってyamlを使う必要があった.
 - helm
 - kustomize
 
+### helm
+helmは変数という形でyamlを記述する.  
+yaml生成からkubernetesへのinstallまでを担当してくれる.  
