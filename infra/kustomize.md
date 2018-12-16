@@ -17,3 +17,5 @@ kubernetesを管理するにあたってyamlを使う必要があった.
 ### helm
 helmは変数という形でyamlを記述する.詳しくはhelmを  
 yaml生成からkubernetesへのinstallまでを担当してくれる.  
+installをするとき
+お金がないのでリソースをできるだけ使いたくない我々はhelm
