@@ -18,4 +18,6 @@ kubernetesを管理するにあたってyamlを使う必要があった.
 helmは変数という形でyamlを記述する.詳しくはhelmを  
 yaml生成からkubernetesへのinstallまでを担当してくれる.  
 デプロイするときははkubernetesにhelmをインストールする必要がある.  
-お金がないのでリソースをできるだけ使いたくない我々はhelm
+お金がないのでリソースをできるだけ使いたくない我々はhelmを使うことを諦めた.
+
+### kustomize
