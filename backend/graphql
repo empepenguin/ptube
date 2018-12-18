@@ -1,0 +1,16 @@
+# APIはGraphqlを使用
+
+## 理由
+- REST API比べ文法が直観的で学習コストが小さい
+- 新しい技術に触ってみたい
+- リクエストの回数を減らせる
+
+## 使ってみて
+- 言語に依存することがなく各言語のライブラリが公開されているので使いやすかった
+- ある程度言語に触れる人なら簡単に扱うことができそうと思った
+
+## 使用したライブラリ
+[graphql-go/graphql](https://github.com/graphql-go/graphql)
+
+## 参考にしたサイト
+[Qiita](https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad)
