@@ -1,6 +1,10 @@
 # APIはGraphqlを使用
 
 ## 理由
+- REST
 
 ## 使用したライブラリ
 [graphql-go/graphql](https://github.com/graphql-go/graphql)
+
+## 参考にしたサイト
+[Qiita](https://qiita.com/bananaumai/items/3eb77a67102f53e8a1ad)
