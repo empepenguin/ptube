@@ -1,3 +1,6 @@
 # APIはGraphqlを使用
 
 ## 理由
+
+## 使用したライブラリ
+[graphql-go/graphql](https://github.com/graphql-go/graphql)
