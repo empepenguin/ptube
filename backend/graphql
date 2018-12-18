@@ -1,7 +1,9 @@
 # APIはGraphqlを使用
 
 ## 理由
-- REST
+- REST API比べ文法が直観的で学習コストが小さい
+- 新しい技術に触ってみたい
+- リクエストの回数を減らせる
 
 ## 使用したライブラリ
 [graphql-go/graphql](https://github.com/graphql-go/graphql)
